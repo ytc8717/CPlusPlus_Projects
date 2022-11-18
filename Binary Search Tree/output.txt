@@ -1,0 +1,21 @@
+==================================================
+Tree data: 8 15 31 42 60 75 77 78 80 88 89 99 
+Smallest branch height: 2
+highest branch height: 9
+Number of nodes: 12
+is Tree balanced? False
+is Tree complete? False
+==================================================
+Tree data: 10 12 13 15 17 20 35 40 48 
+Smallest branch height: 3
+highest branch height: 4
+Number of nodes: 9
+is Tree balanced? True
+is Tree complete? True
+==================================================
+Tree data: 25 37 40 51 73 81 90 98 
+Smallest branch height: 3
+highest branch height: 4
+Number of nodes: 8
+is Tree balanced? True
+is Tree complete? False
