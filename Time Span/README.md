@@ -1,2 +1,2 @@
 # Time Span (C++)
-- A program to convert given hours, minutes, and seconds into corresponding 24-hour based time (format: HH:MM:SS)
+- A program to convert given hours, minutes, and seconds into corresponding time format in HH:MM:SS
