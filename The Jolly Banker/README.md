@@ -1,6 +1,7 @@
 # The Jolly Banker (C++)
 - Developed a banking system that reads a string of transactions from a file into an in-memory queue to process the transactions
 - Implemented binary search tree algorithm to store and manage the accounts data
+- Implemented open account, deposit, withdrawal, transfer, view transactions history functionalities
 
 Transaction File
 
