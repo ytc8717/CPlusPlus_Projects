@@ -1,1 +1,2 @@
-# Skip List C++
+# Skip List (C++)
+- Implemented skip-list functionalities
