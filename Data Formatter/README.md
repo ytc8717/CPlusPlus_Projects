@@ -1,6 +1,6 @@
 # Data Formatter (C++)
 - A data formatter app to help convert values between different data types:
- - FRAC16
+  - FRAC16
 - FRAC32
 - Q15
 - ACC16
