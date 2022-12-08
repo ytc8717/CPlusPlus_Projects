@@ -2,6 +2,7 @@
 - Developed a banking system that reads a string of transactions from a file into an in-memory queue to process the transactions
 - Implemented binary search tree algorithm to store and manage the accounts data
 - Implemented open account, deposit, withdrawal, transfer, view transactions history functionalities
+- Implemented exception handlings to take care of error cases
 
 Transaction File
 
