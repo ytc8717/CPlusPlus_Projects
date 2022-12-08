@@ -1,1 +1,2 @@
-# Library System C++
+# Library System (C++)
+- A library system built with C++
